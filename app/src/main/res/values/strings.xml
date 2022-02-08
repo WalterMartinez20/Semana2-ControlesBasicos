@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Walter-Semana2-ControlesBasicos</string>
+    //strings de principal y EnviarDatos
+    <string name="titulo">Controles Basicos</string>
+    <string name="nombre">Escriba su nombre</string>
+    <string name="apellido">Escriba su apellido</string>
+    <string name="enviarDatos">ENVIAR DATOS</string>
+    <string name="titulo2">Determina si eres mayor de edad</string>
+    <string name="edad">Escriba su edad</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="atras">atras</string>
+    <string name="inicio">Inicio</string>
+    <string name="enviar">Enviar</string>
+
+</resources>
